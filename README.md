@@ -97,3 +97,14 @@ void loop() {
 ###### 2. Temperature and Humidity Thresholds: The code checks if the temperature and humidity values are outside the specified ranges and controls the LED accordingly.
 
 ###### 3. Data Transmission to ThingSpeak: The measured temperature and humidity data are sent to the ThingSpeak IoT platform using the ThingSpeak library.
+#### ESP32:
+![photo_2024-07-14_02-28-10](https://github.com/user-attachments/assets/cc65f9c2-1260-4c68-8165-f51b16eaa899)
+
+#### Output:
+![photo_2024-07-14_02-28-21](https://github.com/user-attachments/assets/f3443b23-3fa9-40ef-95da-7b627ed116f2)
+
+![photo_2024-07-14_02-28-32](https://github.com/user-attachments/assets/845f5c0d-01f0-41f7-961d-3dbd7bfeaa70)
+
+![photo_2024-07-14_02-28-38](https://github.com/user-attachments/assets/30f94e33-906a-484a-a809-50b841b30674)
+
+
